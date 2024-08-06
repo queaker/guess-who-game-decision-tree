@@ -42,7 +42,7 @@ The objective is to guess the opponent’s mystery character correctly before th
 
 ## Themed Editions
 
-* **Disney Edition: **Features popular Disney characters instead of the traditional lineup, allowing players to guess characters like Mickey Mouse, Cinderella, and others.
+* **Disney Edition:** Features popular Disney characters instead of the traditional lineup, allowing players to guess characters like Mickey Mouse, Cinderella, and others.
 * **Marvel Edition:** Includes Marvel superheroes and villains, where players guess iconic characters such as Spider-Man, Iron Man, and Captain America.
 * **Star Wars Edition:** Set in the Star Wars universe, featuring characters from the movies like Luke Skywalker, Darth Vader, and Yoda.
 * **Harry Potter Edition:** Based on the Harry Potter series, allowing players to guess characters like Harry Potter, Hermione Granger, and others from the wizarding world.
@@ -115,4 +115,4 @@ To find out if there are enough consistent features to play the game, I collecte
 
 A decision tree that omits "ambiguous" features in the game can be found in this repository as "GuessWhoGrabAndGoEditionGame.pdf".
 
-
+![Decision Tree for Grab and Go Edition](GuessWhoGrabAndGoEditionGame.png)
