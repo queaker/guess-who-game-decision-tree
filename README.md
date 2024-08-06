@@ -1,5 +1,9 @@
 # A Decision-Tree for the Game 'Guess Who?'
 
+## Grab and Go Edition
+
+![Decision Tree for Grab and Go Edition](GuessWhoGrabAndGoEditionGame.png)
+
 "Guess Who?" is a classic two-player board game developed by Hasbro. The goal of the game is for players to guess which character their opponent has chosen from a lineup of possibilities by asking yes-or-no questions. Here’s how the game is typically played:
 
 ## Game Components
@@ -114,5 +118,3 @@ Games often lead to false exits because you didn't recognize the 7th person, who
 To find out if there are enough consistent features to play the game, I collected the features of the people in the discussion with the family. A piece of software was then developed that attempts to create a decision tree with the currently selected features.
 
 A decision tree that omits "ambiguous" features in the game can be found in this repository as "GuessWhoGrabAndGoEditionGame.pdf".
-
-![Decision Tree for Grab and Go Edition](GuessWhoGrabAndGoEditionGame.png)
